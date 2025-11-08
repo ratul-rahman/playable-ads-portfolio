@@ -50,4 +50,4 @@ Have a project in mind? We're looking for foundational partners to build the nex
 
 Let's connect and build your user acquisition engine.
 
-*   **Contact:** `ratul@adquirk.com`
+*   **Contact:** [`ratul@adquirk.com`](mailto:ratul@adquirk.com)
