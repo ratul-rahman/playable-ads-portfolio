@@ -30,10 +30,10 @@ This is where the magic happens. Each ad is a self-contained, high-performance w
 
 These aren't just games; they are precision-engineered marketing tools. Our core focus is on what drives results:
 
-*   **⚡️ Blazing Speed:** Instant load times, even on slow 3G mobile networks. No user left behind.
-*   **🔬 Microscopic Footprint:** Incredibly small file sizes to crush user drop-off rates and please ad networks.
-*   **🎯 Conversion-Focused Design:** Every element is built with a clear call-to-action to drive installs and maximize ROAS.
-*   **📱 Flawless Experience:** Fully responsive, accessible, and runs butter-smooth on all modern browsers and devices.
+*   **Blazing Speed:** Instant load times, even on slow 3G mobile networks. No user left behind.
+*   **Microscopic Footprint:** Incredibly small file sizes to crush user drop-off rates and please ad networks.
+*   **Conversion-Focused Design:** Every element is built with a clear call-to-action to drive installs and maximize ROAS.
+*   **Flawless Experience:** Fully responsive, accessible, and runs butter-smooth on all modern browsers and devices.
 
 ---
 
