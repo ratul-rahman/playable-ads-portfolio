@@ -12,7 +12,7 @@ This is where the magic happens. Each ad is a self-contained, high-performance w
 
 <p align="center">
   <a href="https://ratul-rahman.github.io/playable-ads-portfolio/ads/gem-matcher/">
-    <img src="https://raw.githubusercontent.com/ratul-rahman/playable-ads-portfolio/main/ads/gem-matcher/gem-matcher-promo.png" alt="Gem Matcher Playable Ad Screenshot" width="700">
+    <img src="https://cdn.jsdelivr.net/gh/ratul-rahman/playable-ads-portfolio@main/ads/gem-matcher/gem-matcher-promo.png" alt="Gem Matcher Playable Ad Screenshot" width="700">
   </a>
 </p>
 
@@ -20,6 +20,7 @@ This is where the magic happens. Each ad is a self-contained, high-performance w
 
 *   **[➡️ Play the Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/gem-matcher/)**
 *   **File Size:** Just `176 KB` (Single, self-contained HTML file)
+*   **Load Time:** Under `0.3 seconds`
 *   **Technology:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`
 
 ---
@@ -36,6 +37,23 @@ This is where the magic happens. Each ad is a self-contained, high-performance w
 
 *   **[➡️ Play the Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/dragon-merge/)**
 *   **File Size:** Just `241 KB` (Single, self-contained HTML file)
+*   **Load Time:** Under `0.3 seconds`
+*   **Technology:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`
+
+---
+
+### 🍪 Cookie Empire
+
+<p align="center">
+  <a href="https://ratul-rahman.github.io/playable-ads-portfolio/ads/cookie-empire/">
+    <img src="https://cdn.jsdelivr.net/gh/ratul-rahman/playable-ads-portfolio@main/ads/cookie-empire/cookie-empire-promo.png" alt="Cookie Empire Playable Ad Screenshot" width="700">
+  </a>
+</p>
+
+> Hyper-addictive idle clicking meets explosive empire growth; a 30-second power fantasy meticulously engineered for maximum player satisfaction and conversion.
+
+*   **[➡️ Play the Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/cookie-empire/)**
+*   **File Size:** Just `187 KB` (Single, self-contained HTML file)
 *   **Load Time:** Under `0.3 seconds`
 *   **Technology:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`
 
