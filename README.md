@@ -22,6 +22,25 @@ This is where the magic happens. Each ad is a self-contained, high-performance w
 *   **File Size:** Just `176 KB` (Single, self-contained HTML file)
 *   **Technology:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`
 
+---
+
+### 🐉 Dragon Merge
+
+<p align="center">
+  <a href="https://ratul-rahman.github.io/playable-ads-portfolio/ads/dragon-merge/">
+    <img src="https://cdn.jsdelivr.net/gh/ratul-rahman/playable-ads-portfolio@main/ads/dragon-merge/dragon-merge-promo.png" alt="Dragon Merge Playable Ad Screenshot" width="700">
+  </a>
+</p>
+
+> Addictive merge mechanics meet mythical dragons. A satisfying progression loop engineered for instant engagement and high conversion rates.
+
+*   **[➡️ Play the Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/dragon-merge/)**
+*   **File Size:** Just `241 KB` (Single, self-contained HTML file)
+*   **Load Time:** Under `0.3 seconds`
+*   **Technology:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`
+
+---
+
 *(More playable ads coming soon...)*
 
 ---
@@ -54,4 +73,4 @@ Have a project in mind? We're looking for foundational partners to build the nex
 
 Let's connect and build your user acquisition engine.
 
-*   **Contact:** [`ratul@adquirk.com`](mailto:ratul@adquirk.com)
+*   **Contact:** [`hello@ratul-rahman.com`](mailto:hello@ratul-rahman.com)
