@@ -59,8 +59,26 @@ This is where the magic happens. Each ad is a self-contained, high-performance w
 *   **Compliance:** `MRAID Compliant`
 *   **Analytics:** Can Track `Click Links` and `In-Ad Events` with MMP 
 
+---
+
+### 📝 WordMatch
+
+<p align="center">
+  <a href="https://ratul-rahman.github.io/playable-ads-portfolio/ads/wordmatch-es/">
+    <img src="https://cdn.jsdelivr.net/gh/ratul-rahman/playable-ads-portfolio@main/ads/wordmatch-es/wordmatch-es-promo.png" alt="Word Match Playable Ad Screenshot" width="700">
+  </a>
+</p>
+
+> A fast-paced language puzzle that feels instantly rewarding; a flash of bilingual brilliance, meticulously engineered for immediate engagement and effortless conversion.
+
+*   **[➡️ Play the Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/wordmatch-es/)**
+*   **File Size:** Just `167 KB` (Single, self-contained HTML file)
+*   **Load Time:** Under `0.2 seconds`
+*   **Technology:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`
+*   **Compliance:** `MRAID Compliant`
 
 ---
+
 
 *(More playable ads coming soon...)*
 
