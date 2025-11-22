@@ -90,7 +90,7 @@ This is where the magic happens. Each ad is a self-contained, high-performance w
 > Clear snow, gather wood, and build your cozy cabin to survive the frozen wilderness.
 
 *   **[➡️ Play the Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/frost-world/)**
-*   **File Size:** Just `241 KB` (Single, self-contained HTML file)
+*   **File Size:** Just `242 KB` (Single, self-contained HTML file)
 *   **Load Time:** Under `0.3 seconds`
 *   **Technology:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`
 *   **Compliance:** `MRAID v2.0 Compliant`
