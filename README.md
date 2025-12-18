@@ -1,12 +1,30 @@
-# ✨ High-Performance Playable Ads Portfolio
+# ⚡ Playable Ads Engine - Demo Showcase
 
-A collection of ultra-lightweight, high-engagement playable ads engineered for maximum conversion. **Tiny file sizes, massive impact.**
+**The fastest way to ship high-performance playable ads.**
+
+Most studios skip playables because they take 3-4 weeks and cost $10K+ from agencies. We're solving that with a **generative engine** that produces production-ready playables in **<24 hours**.
 
 ---
 
-## 🚀 Live Demos
+## 🎯 What We're Building
 
-This is where the magic happens. Each ad is a self-contained, high-performance web application, built from the ground up.
+A system that creates **fully custom playables from the ground up** using just a text prompt and a gameplay video clip. No templates, no pre-built assets—every playable is uniquely generated for your game.
+
+**Input:** Simple text description + gameplay video of the core mechanic  
+**Output:** Production-ready playable ad in <24 hours
+
+Every generated playable is:
+
+*   **<300KB file size** (loads in <0.3 seconds, even on 3G)
+*   **Universal compliance:** MRAID, Meta, TikTok, Google, Vungle, and more
+*   **Fully custom mechanics** (not generic templates)
+*   **Built for conversion,** not just clicks
+
+---
+
+## 🚀 Generated Demos
+
+Below are real outputs from our engine. Each playable is **fully custom-built from scratch**—generated from a text prompt and gameplay video clip. Zero templates, zero shortcuts.
 
 ### 💎 Gem Matcher
 
@@ -16,12 +34,12 @@ This is where the magic happens. Each ad is a self-contained, high-performance w
   </a>
 </p>
 
-> A classic match-3 experience, rebuilt for the modern web. Insanely fast, ridiculously small, and ready to convert users for your main game.
+> Classic match-3 mechanics with instant gratification loops.
 
-*   **[➡️ Play the Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/gem-matcher/)**
-*   **File Size:** Just `176 KB` (Single, self-contained HTML file)
-*   **Load Time:** Under `0.3 seconds`
-*   **Technology:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`
+*   **[➡️ Play Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/gem-matcher/)**
+*   **File Size:** `176 KB`
+*   **Load Time:** `<0.3s`
+*   **Tech Stack:** React, TypeScript, Vite, Tailwind CSS
 
 ---
 
@@ -33,12 +51,12 @@ This is where the magic happens. Each ad is a self-contained, high-performance w
   </a>
 </p>
 
-> Addictive merge mechanics meet mythical dragons. A satisfying progression loop engineered for instant engagement and high conversion rates.
+> Addictive merge progression with mythical creatures.
 
-*   **[➡️ Play the Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/dragon-merge/)**
-*   **File Size:** Just `241 KB` (Single, self-contained HTML file)
-*   **Load Time:** Under `0.3 seconds`
-*   **Technology:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`
+*   **[➡️ Play Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/dragon-merge/)**
+*   **File Size:** `241 KB`
+*   **Load Time:** `<0.3s`
+*   **Tech Stack:** React, TypeScript, Vite, Tailwind CSS
 
 ---
 
@@ -50,14 +68,13 @@ This is where the magic happens. Each ad is a self-contained, high-performance w
   </a>
 </p>
 
-> Hyper-addictive idle clicking meets explosive empire growth; a 30-second power fantasy meticulously engineered for maximum player satisfaction and conversion.
+> Hyper-casual idle clicker with explosive growth curves.
 
-*   **[➡️ Play the Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/cookie-empire/)**
-*   **File Size:** Just `188 KB` (Single, self-contained HTML file)
-*   **Load Time:** Under `0.3 seconds`
-*   **Technology:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`
-*   **Compliance:** `MRAID Compliant`
-*   **Analytics:** Can Track `Click Links` and `In-Ad Events` with MMP 
+*   **[➡️ Play Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/cookie-empire/)**
+*   **File Size:** `188 KB`
+*   **Load Time:** `<0.3s`
+*   **Tech Stack:** React, TypeScript, Vite, Tailwind CSS
+*   **Features:** MRAID compliant, MMP event tracking
 
 ---
 
@@ -69,13 +86,13 @@ This is where the magic happens. Each ad is a self-contained, high-performance w
   </a>
 </p>
 
-> A fast-paced language puzzle that feels instantly rewarding; a flash of bilingual brilliance, meticulously engineered for immediate engagement and effortless conversion.
+> Fast-paced bilingual word puzzles with instant feedback.
 
-*   **[➡️ Play the Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/wordmatch-es/)**
-*   **File Size:** Just `198 KB` (Single, self-contained HTML file)
-*   **Load Time:** Under `0.2 seconds`
-*   **Technology:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`
-*   **Compliance:** `MRAID v2.0 Compliant`
+*   **[➡️ Play Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/wordmatch-es/)**
+*   **File Size:** `198 KB`
+*   **Load Time:** `<0.2s`
+*   **Tech Stack:** React, TypeScript, Vite, Tailwind CSS
+*   **Features:** MRAID v2.0 compliant
 
 ---
 
@@ -87,46 +104,85 @@ This is where the magic happens. Each ad is a self-contained, high-performance w
   </a>
 </p>
 
-> Clear snow, gather wood, and build your cozy cabin to survive the frozen wilderness.
+> Resource gathering meets survival mechanics in a frozen world.
 
-*   **[➡️ Play the Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/frost-world/)**
-*   **File Size:** Just `258 KB` (Single, self-contained HTML file)
-*   **Load Time:** Under `0.3 seconds`
-*   **Technology:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`
-*   **Compliance:** `MRAID v2.0 Compliant`
- 
----
-
-*(More playable ads coming soon...)*
+*   **[➡️ Play Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/frost-world/)**
+*   **File Size:** `258 KB`
+*   **Load Time:** `<0.3s`
+*   **Tech Stack:** React, TypeScript, Vite, Tailwind CSS
+*   **Features:** MRAID v2.0 compliant
 
 ---
 
-## 💡 Our Engineering Philosophy
+### 🎯 Bubble Shooter
 
-These aren't just games; they are precision-engineered marketing tools. Our core focus is on what drives results:
+<p align="center">
+  <a href="https://ratul-rahman.github.io/playable-ads-portfolio/ads/bubble-shooter/">
+    <img src="https://cdn.jsdelivr.net/gh/ratul-rahman/playable-ads-portfolio@main/ads/bubble-shooter/bubble-shooter-promo.png" alt="Bubble Shooter Playable Ad Screenshot" width="700">
+  </a>
+</p>
 
-*   **Blazing Speed:** Instant load times, even on slow 3G mobile networks. No user left behind.
-*   **Microscopic Footprint:** Incredibly small file sizes to crush user drop-off rates and please ad networks.
-*   **Conversion-Focused Design:** Every element is built with a clear call-to-action to drive installs and maximize ROAS.
-*   **Flawless Experience:** Fully responsive, accessible, and runs butter-smooth on all modern browsers and devices.
+> Classic arcade bubble-popping with precision aiming mechanics.
 
----
-
-## 🛠️ Technology Stack
-
-This portfolio is built with a modern, performant, and reliable tech stack chosen for its ability to produce highly-optimized web applications:
-
-*   **Frontend:** [React](https://react.dev/) & [TypeScript](https://www.typescriptlang.org/)
-*   **Build Tool:** [Vite](https://vitejs.dev/)
-*   **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-*   **Playable Ad Bundling:** [vite-plugin-singlefile](https://github.com/richardtallent/vite-plugin-singlefile)
+*   **[➡️ Play Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/bubble-shooter/)**
+*   **File Size:** `151 KB`
+*   **Load Time:** `<0.3s`
+*   **Tech Stack:** React, TypeScript, Vite, Tailwind CSS
+*   **Features:** MRAID v2.0 compliant
 
 ---
 
-## 🤝 Let's Build Something Epic
+### 🧩 Block Puzzle
 
-Have a project in mind? We're looking for foundational partners to build the next generation of high-converting playable ads.
+<p align="center">
+  <a href="https://ratul-rahman.github.io/playable-ads-portfolio/ads/block-puzzle/">
+    <img src="https://cdn.jsdelivr.net/gh/ratul-rahman/playable-ads-portfolio@main/ads/block-puzzle/block-puzzle-promo.png" alt="Block Puzzle Playable Ad Screenshot" width="700">
+  </a>
+</p>
 
-Let's connect and build your user acquisition engine.
+> Strategic block placement with satisfying chain-clear mechanics.
 
-*   **Contact:** [`hello@ratul-rahman.com`](mailto:hello@ratul-rahman.com)
+*   **[➡️ Play Live Demo](https://ratul-rahman.github.io/playable-ads-portfolio/ads/block-puzzle/)**
+*   **File Size:** `299 KB`
+*   **Load Time:** `<0.3s`
+*   **Tech Stack:** React, TypeScript, Vite, Tailwind CSS
+*   **Features:** MRAID v2.0 compliant
+
+---
+
+## 💡 Why This Matters
+
+**The bottleneck in mobile UA isn't the creative idea—it's execution speed.**
+
+Traditional agencies take weeks and charge $10K+ per playable. Our engine delivers production-ready ads in under 24 hours, letting you test more creatives, iterate faster, and find winners before your competitors do.
+
+### Built for Performance Marketers
+*   **Instant load times** on 3G networks (no user drop-off)
+*   **Universal ad network support** (deploy anywhere)
+*   **Conversion-optimized mechanics** (not just pretty demos)
+*   **Production-ready output** (no additional dev work needed)
+
+---
+
+## 🛠️ Technical Foundation
+
+Our engine outputs modern, highly-optimized web applications:
+
+*   **Frontend:** React & TypeScript
+*   **Build System:** Vite with aggressive optimization
+*   **Styling:** Tailwind CSS (purged for minimal footprint)
+*   **Output Format:** Single-file HTML (zero dependencies)
+
+---
+
+## 🚀 Currently in Closed Beta
+
+We're working with select game studios and performance marketers running in-app ads (IAA) user acquisition.
+
+**If you're running mobile UA and want to test playables faster than any agency can deliver:**
+
+📧 **Email:** [hello@ratul-rahman.com](mailto:hello@ratul-rahman.com)
+
+---
+
+*Built by someone who worked with studios running IAA-based user acquisition and got tired of watching creative execution bottleneck the entire funnel.*
